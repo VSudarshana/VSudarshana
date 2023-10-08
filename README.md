@@ -23,7 +23,7 @@ I'm currently focusing on mastering Flutter for building beautiful and interacti
 
 I'm always looking forward to connecting with other developers, sharing knowledge, and collaborating on interesting projects. Feel free to reach out to me:
 
-- LinkedIn: [sudarshana-v](www.linkedin.com/in/sudarshana-v)
+- LinkedIn: [sudarshana-v](https://www.linkedin.com/in/sudarshana-v/)
 - Portfolio: [My Portfolio Website](https://)
 
 Happy coding! 💻✨
