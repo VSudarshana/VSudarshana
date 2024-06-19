@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsudarshana" alt="vsudarshana" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://vsudarshana.github.io/My-Portfolio/](https://vsudarshana.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://vsudarshana.github.io/My-Portfolio/](https://sudarshana-dev-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
